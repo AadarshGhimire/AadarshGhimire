@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsha Ghimire</h1>
 <h3 align="center">A passionate web-developer</h3>
 
-🌱 currently learning **C programming**
 
  📫How to reach me 
 
