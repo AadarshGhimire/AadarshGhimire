@@ -2,8 +2,9 @@
 <h3 align="center">A passionate web-developer</h3>
 
 <h3 align="left">Connect with me:</h3>
-<a href ="https://www.linkedin.com/in/adarsh-ghimire-7893a031b/">Linkedin</a>
+<a href ="https://www.linkedin.com/in/adarsh-ghimire-7893a031b/">Linkedin</a><br>
 <a href = "https://www.facebook.com/adarsh.ghimire.651977">Facebook</a>
+<a href = "ghimireadarsh842@gmail.com">ghimireadarsh842@gmail.com</a>
 <p align="left">
 </p>
 
